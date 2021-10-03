@@ -1,0 +1,15 @@
+*.pyc 
+db.sqlite3
+
+../venv/
+_ _ pycache _ _ /
+
+_ _ pycache _ _ 
+.idea/ 
+
+.env.dev
+books/books/.env
+1_requirements.txt
+
+*.log
+*.pot
